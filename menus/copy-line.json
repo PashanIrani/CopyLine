@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Copy Previous Line",
-        "command": "copy-line:toggle"
+        "command": "copy-line:copy"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "copy-line",
+          "label": "CopyLine",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "copy-line:toggle"
+              "label": "Copy Previous Line",
+              "command": "copy-line:copy"
             }
           ]
         }
