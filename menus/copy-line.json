@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle copy-line",
+        "label": "Copy Previous Line",
         "command": "copy-line:toggle"
       }
     ]
