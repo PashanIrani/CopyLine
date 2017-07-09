@@ -2,4 +2,6 @@
 
 An Atom package which copies and pastes the previous line, without clearing your clipboard
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Press `ctrl-alt-m` to copy the previous line.
+
+![CopyLine in Action](https://im3.ezgif.com/tmp/ezgif-3-45c3667b9d.gif)
