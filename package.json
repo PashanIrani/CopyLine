@@ -1,7 +1,7 @@
 {
   "name": "CopyLine",
   "main": "./lib/copy-line",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An Atom package which copies and pastes the previous line, without clearing your clipboard",
   "keywords": [],
   "activationCommands": {
