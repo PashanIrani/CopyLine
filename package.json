@@ -1,24 +1,21 @@
 {
   "name": "CopyLine",
   "main": "./lib/copy-line",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An Atom package which copies and pastes the previous line, without clearing your clipboard",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "copy-line:copy"
-  },
-  "repository": "https://github.com/atom/copy-line",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/PashanIrani/CopyLine.git"
   },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
   "bugs": {
     "url": "https://github.com/PashanIrani/CopyLine/issues"
   }
