@@ -14,5 +14,12 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PashanIrani/CopyLine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PashanIrani/CopyLine/issues"
   }
 }
